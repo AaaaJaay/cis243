@@ -1,0 +1,13 @@
+D:\cis243\myFirstProgramCruse\bin\Debug\netcoreapp3.1\myFirstProgramCruse.exe
+D:\cis243\myFirstProgramCruse\bin\Debug\netcoreapp3.1\myFirstProgramCruse.deps.json
+D:\cis243\myFirstProgramCruse\bin\Debug\netcoreapp3.1\myFirstProgramCruse.runtimeconfig.json
+D:\cis243\myFirstProgramCruse\bin\Debug\netcoreapp3.1\myFirstProgramCruse.runtimeconfig.dev.json
+D:\cis243\myFirstProgramCruse\bin\Debug\netcoreapp3.1\myFirstProgramCruse.dll
+D:\cis243\myFirstProgramCruse\bin\Debug\netcoreapp3.1\myFirstProgramCruse.pdb
+D:\cis243\myFirstProgramCruse\obj\Debug\netcoreapp3.1\myFirstProgramCruse.csprojAssemblyReference.cache
+D:\cis243\myFirstProgramCruse\obj\Debug\netcoreapp3.1\myFirstProgramCruse.AssemblyInfoInputs.cache
+D:\cis243\myFirstProgramCruse\obj\Debug\netcoreapp3.1\myFirstProgramCruse.AssemblyInfo.cs
+D:\cis243\myFirstProgramCruse\obj\Debug\netcoreapp3.1\myFirstProgramCruse.csproj.CoreCompileInputs.cache
+D:\cis243\myFirstProgramCruse\obj\Debug\netcoreapp3.1\myFirstProgramCruse.dll
+D:\cis243\myFirstProgramCruse\obj\Debug\netcoreapp3.1\myFirstProgramCruse.pdb
+D:\cis243\myFirstProgramCruse\obj\Debug\netcoreapp3.1\myFirstProgramCruse.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\cis243\myFirstProgramCruse\bin\Debug\netcoreapp3.1\Assignment_1_Cruse.exe
+D:\cis243\myFirstProgramCruse\bin\Debug\netcoreapp3.1\Assignment_1_Cruse.deps.json
+D:\cis243\myFirstProgramCruse\bin\Debug\netcoreapp3.1\Assignment_1_Cruse.runtimeconfig.json
+D:\cis243\myFirstProgramCruse\bin\Debug\netcoreapp3.1\Assignment_1_Cruse.runtimeconfig.dev.json
+D:\cis243\myFirstProgramCruse\bin\Debug\netcoreapp3.1\Assignment_1_Cruse.dll
+D:\cis243\myFirstProgramCruse\bin\Debug\netcoreapp3.1\Assignment_1_Cruse.pdb
+D:\cis243\myFirstProgramCruse\obj\Debug\netcoreapp3.1\Assignment_1_Cruse.csprojAssemblyReference.cache
+D:\cis243\myFirstProgramCruse\obj\Debug\netcoreapp3.1\Assignment_1_Cruse.AssemblyInfoInputs.cache
+D:\cis243\myFirstProgramCruse\obj\Debug\netcoreapp3.1\Assignment_1_Cruse.AssemblyInfo.cs
+D:\cis243\myFirstProgramCruse\obj\Debug\netcoreapp3.1\Assignment_1_Cruse.csproj.CoreCompileInputs.cache
+D:\cis243\myFirstProgramCruse\obj\Debug\netcoreapp3.1\Assignment_1_Cruse.dll
+D:\cis243\myFirstProgramCruse\obj\Debug\netcoreapp3.1\Assignment_1_Cruse.pdb
+D:\cis243\myFirstProgramCruse\obj\Debug\netcoreapp3.1\Assignment_1_Cruse.genruntimeconfig.cache
